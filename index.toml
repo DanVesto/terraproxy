@@ -316,11 +316,6 @@ hash = "3d8d96fc1f3e9b0dff03caf54562f8ff5c65aaeaabe002434133d8a0e44ff2ca"
 metafile = true
 
 [[files]]
-file = "mods/guild.pw.toml"
-hash = "b4745e1dcd7e3869a0047dfcb78eb8cd7d5b528bfb97e544aecfe251cb51f2bc"
-metafile = true
-
-[[files]]
 file = "mods/huge-structure-blocks.pw.toml"
 hash = "cdf95e227083b15739cbef5632ad685cdbf791e08a37dc8c63c3d0cab9f785d1"
 metafile = true
@@ -428,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "51ea57345c9369d53fd17ca8663f43f587d3bee6765a0afdf43ab7955d94eca2"
+metafile = true
+
+[[files]]
+file = "mods/persona.pw.toml"
+hash = "b6b722c4f476be297928c584e44d416954e3b3ae0fc674963d1b7c7c1d16cb8d"
 metafile = true
 
 [[files]]

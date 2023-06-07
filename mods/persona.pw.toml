@@ -1,0 +1,13 @@
+name = "Persona​"
+filename = "persona-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c563d7392ad4c2c4a1323d5d0ba33d74104a921a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3905325
+project-id = 615135
