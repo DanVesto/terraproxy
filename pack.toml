@@ -1,0 +1,13 @@
+name = "Terra Proxy"
+author = "ArtificialDan"
+version = "0.0.39"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3fd27dc62780b01bab0dab809f4d93aaf755010cdb403455992cda55bec27078"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.18.2"

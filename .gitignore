@@ -1,0 +1,7 @@
+# Exclude the packwiz executable
+*.exe
+
+*.bat
+
+# Exclude exported Modrinth modpacks
+*.mrpack

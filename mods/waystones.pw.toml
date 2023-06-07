@@ -1,0 +1,13 @@
+name = "Waystones"
+filename = "waystones-fabric-1.18.2-10.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/ucqZcaDp/waystones-fabric-1.18.2-10.2.1.jar"
+hash-format = "sha1"
+hash = "5aacb0a51efbfec0335a4774afc3ae2858b4b617"
+
+[update]
+[update.modrinth]
+mod-id = "LOpKHB2A"
+version = "ucqZcaDp"
