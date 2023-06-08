@@ -49,6 +49,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "537b713a81cdf61b7f9b89e351beb01fed73c50331a28a9fbead59289d1a9d1e"
 
 [[files]]
+file = "config/forgivingvoid.toml"
+hash = "f32cf74e933ec448906a0e1f58af57117b9bdfc0390cb69d733dc9a560db2ef5"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "3a2a810a45163f5e9403176263d532f8d6151590a5ce65ae122fb5f0cac724fa"
 

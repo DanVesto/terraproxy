@@ -1,0 +1,10 @@
+triggerAtDistanceBelow = 32
+damageOnFall = 0
+fallingHeight = 256
+preventDeath = true
+triggerInOverworld = false
+triggerInNether = false
+triggerInEnd = false
+disableVanillaAntiCheatWhileFalling = true
+dimensionAllowList = ["minecraft:hub"]
+dimensionDenyList = []
