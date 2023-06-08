@@ -6,7 +6,7 @@
   "sharedBlockMeshBufferOptimization": true,
   "lagAttackProof": true,
   "portalRenderLimit": 1,
-  "indirectLoadingRadiusCap": 16,
+  "indirectLoadingRadiusCap": 32,
   "enableCrossPortalSound": true,
   "compatibilityRenderMode": false,
   "doCheckGlError": false,
