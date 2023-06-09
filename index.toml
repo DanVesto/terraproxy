@@ -235,6 +235,11 @@ hash = "b60fc5c154d6ca0e07406638d53bfbaa751e3ef517ff553fcec8543847844728"
 metafile = true
 
 [[files]]
+file = "mods/deathcommands.pw.toml"
+hash = "d8709d7cf1f6a9709568f2b23796873cdb9b1b43bed530d44d9a1b1c0891a2a6"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "38a6671631add34eac47d2c2cc1bb480e5479d15548f10b0eaaafe200dfd5a37"
 metafile = true
@@ -332,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ecdc6da68522e33a1084b9fd81cfe38bd69de178bb6668899764e4a7ac115d13"
-metafile = true
-
-[[files]]
-file = "mods/globalspawn.pw.toml"
-hash = "b7f92441b9ca410da2d27506d5fa0c001fdf13af5c935e163cb482b3ff307845"
 metafile = true
 
 [[files]]

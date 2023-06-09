@@ -1,0 +1,13 @@
+name = "Death Commands"
+filename = "DeathCommands-1.0.0+1.18.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8E92EOAn/versions/HTH2xF4h/DeathCommands-1.0.0%2B1.18.x.jar"
+hash-format = "sha1"
+hash = "dea3ac0743a8856a62aac237a503157a6f4a650e"
+
+[update]
+[update.modrinth]
+mod-id = "8E92EOAn"
+version = "HTH2xF4h"
