@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ee29da8ab6eed48c736bed369f1b8a812bbb0288eba3f16eba9a04393b983804"
+hash = "3b39d3a2bea559be8777c65db90a2f15377d6656e17cbc3400be746c5ec0ebc0"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "268eee36d007dc55ff7abb4e4eff3dc2d6d8007fad18bea53330dffffeee41f5"
+hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
 metafile = true
 
 [[files]]
@@ -315,6 +315,21 @@ hash = "6f84734cbe6b13a55083e7608bfc5773d89b620810cb65b7e570b6c94edebd05"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "91136fa2e69d33b38212fd767d4f60a58c018e217b2cf5b3d4f136396124b08b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "09b05de422ce7d92532b1bb1e72c1a054e6a476d04d671684e3adab8d69e64af"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "df222a476c046b30bc6d97327fdfcc80d1412e3fb3032a648b0709f580dce8bd"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ecdc6da68522e33a1084b9fd81cfe38bd69de178bb6668899764e4a7ac115d13"
 metafile = true
@@ -347,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/isxander-main-menu-credits.pw.toml"
 hash = "bf619ec7dae9e2dcd694424a7c702c7fa1f549c3589f9ea0f4ef4d40d9041c2a"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "3fd6c3023e220fe708024d6151ee74f0f86589e75e1214daaf39ddb82d7b9e5e"
 metafile = true
 
 [[files]]
@@ -457,11 +477,6 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "3aee504744169e480f9f4d82227ba5557e306a4f151afe8b38720df63ad12873"
-metafile = true
-
-[[files]]
-file = "mods/shoppy.pw.toml"
-hash = "c92f76441f118c181592777c4d046a6e877bb0ce804a28c0624b04655223e931"
 metafile = true
 
 [[files]]
