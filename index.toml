@@ -58,7 +58,7 @@ hash = "3a2a810a45163f5e9403176263d532f8d6151590a5ce65ae122fb5f0cac724fa"
 
 [[files]]
 file = "config/immersive_portals_fabric.json"
-hash = "1006197232a9079d3fb062292857b55ad2d7fd3ddb0b4ae31a6af7b3fe6cd4f8"
+hash = "f1d2fc0f797c864de4195fc1b5db5fd036f26c92ae829ed320ef8aed9810fe99"
 
 [[files]]
 file = "config/modmenu.json"
@@ -457,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "3aee504744169e480f9f4d82227ba5557e306a4f151afe8b38720df63ad12873"
+metafile = true
+
+[[files]]
+file = "mods/shoppy.pw.toml"
+hash = "c92f76441f118c181592777c4d046a6e877bb0ce804a28c0624b04655223e931"
 metafile = true
 
 [[files]]
