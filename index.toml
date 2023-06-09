@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalspawn.pw.toml"
-hash = "3d8d96fc1f3e9b0dff03caf54562f8ff5c65aaeaabe002434133d8a0e44ff2ca"
+hash = "b7f92441b9ca410da2d27506d5fa0c001fdf13af5c935e163cb482b3ff307845"
 metafile = true
 
 [[files]]
