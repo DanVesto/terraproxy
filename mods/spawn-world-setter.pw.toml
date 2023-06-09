@@ -1,0 +1,13 @@
+name = "Spawn World Setter"
+filename = "SpawnWorldSetter-1.1.2-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BnoSde42/versions/sN0JaLHS/SpawnWorldSetter-1.1.2-1.18.2.jar"
+hash-format = "sha1"
+hash = "7c52566152dfc7fc910b3b4bcf200a0a680b7483"
+
+[update]
+[update.modrinth]
+mod-id = "BnoSde42"
+version = "sN0JaLHS"

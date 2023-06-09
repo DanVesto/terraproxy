@@ -235,11 +235,6 @@ hash = "b60fc5c154d6ca0e07406638d53bfbaa751e3ef517ff553fcec8543847844728"
 metafile = true
 
 [[files]]
-file = "mods/deathcommands.pw.toml"
-hash = "d8709d7cf1f6a9709568f2b23796873cdb9b1b43bed530d44d9a1b1c0891a2a6"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "38a6671631add34eac47d2c2cc1bb480e5479d15548f10b0eaaafe200dfd5a37"
 metafile = true
@@ -276,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
+hash = "268eee36d007dc55ff7abb4e4eff3dc2d6d8007fad18bea53330dffffeee41f5"
 metafile = true
 
 [[files]]
@@ -497,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "53eee6a4ef1a3ae38ef86e785dbc83219de9630590594797c133a720f8bed6ee"
+metafile = true
+
+[[files]]
+file = "mods/spawn-world-setter.pw.toml"
+hash = "b6a20e0bde66a0f8a930fa337423c3753ed31d4fcbd6300f87c08179317b89b8"
 metafile = true
 
 [[files]]

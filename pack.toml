@@ -1,12 +1,12 @@
 name = "Terra Proxy"
 author = "ArtificialDan"
-version = "0.0.47"
+version = "0.0.48"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fc7ba7ec31beb8691431280c5404a8d011029e1f904509e65c51e9941240453e"
+hash = "129d43a0cac613e9d067293f61d323bc5ecba579cf4f777c203d9786d5e5db3f"
 
 [versions]
 fabric = "0.14.21"
