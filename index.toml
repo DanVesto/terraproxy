@@ -74,7 +74,7 @@ hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "2d83e2f33e84b69db2d30998d8d5b3a41665b65437907419afa454a6a601eba3"
+hash = "6536c58c5a0d949fb5a37a771f69b49ff415bf50d591dc54190fc601522afb4a"
 
 [[files]]
 file = "config/waystones.toml"
