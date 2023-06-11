@@ -552,3 +552,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "30cae3d640c7a768890e806908c703db5cd61f3933b5c91985c67f91f82f43a4"
+
+[[files]]
+file = "servers.dat"
+hash = "775ffd99bfe9e9259bbb49c9c8303197ab8a8053a4501c08917d3f95e1da6f43"
