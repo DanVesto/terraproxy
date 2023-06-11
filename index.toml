@@ -535,6 +535,11 @@ hash = "1ac4efbfb3aaa92fcc345081c3e90267be4db1a7566c02755399cb8fb5d7d5c6"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "0c006409062946ef5d40bbfa4232f01bd7a84690ed274810ebb3c618a184b2fb"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "1438d84a1f53c60f1f95c104d44e361c9af6e05acd0a81ce7a90c57ad1f2d061"
 metafile = true
