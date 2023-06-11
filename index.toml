@@ -205,6 +205,11 @@ hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "5af92ecf72483d4b2c2fdb558686a6276249e8d7d8c5c46b96b851f16c1d962a"
+metafile = true
+
+[[files]]
 file = "mods/colormatic.pw.toml"
 hash = "71522a73a6a7384ebbf4a603bd237c41b004cfb1f3213694d236307673eee48a"
 metafile = true
@@ -367,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/itemmodelfix.pw.toml"
 hash = "79c587b5c7af67f29fba45cdd93a5e5de3a050ede5976ec7d19ed9101c2231c3"
+metafile = true
+
+[[files]]
+file = "mods/just-mob-heads.pw.toml"
+hash = "6bf7007d821ad2eb9f5db9b4ad456e6d66f3b24ddb0a022041f6cc2a561b06fb"
 metafile = true
 
 [[files]]
