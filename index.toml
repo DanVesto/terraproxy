@@ -185,6 +185,11 @@ hash = "486877dab9660684501cbf535c5de3069ce2ea2e7e7868edfbc78ec3a9875f8b"
 metafile = true
 
 [[files]]
+file = "mods/campanion.pw.toml"
+hash = "8d3de765ffa83b0499e328dbd1827e35c2a9f88c11cdc09ba1f4efe7d68f531f"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "3861994eced5388522a99c6f6e445a4b88719c10855b65ac32b0692b01eab80a"
 metafile = true
