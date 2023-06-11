@@ -78,7 +78,7 @@ hash = "6536c58c5a0d949fb5a37a771f69b49ff415bf50d591dc54190fc601522afb4a"
 
 [[files]]
 file = "config/waystones.toml"
-hash = "df442c438b43d2db689f03b86d7f714a995b42768f9c9bb29680548366873ce0"
+hash = "6e29e151af147877bd45724ff7f53cf1ba76fec96ad3a35c589293ddded86542"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
