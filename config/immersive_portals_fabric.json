@@ -14,7 +14,7 @@
   "renderYourselfInPortal": true,
   "serverSideNormalChunkLoading": true,
   "teleportationDebug": false,
-  "correctCrossPortalEntityRendering": true,
+  "correctCrossPortalEntityRendering": false,
   "looseMovementCheck": false,
   "pureMirror": false,
   "enableAlternateDimensions": true,
