@@ -245,6 +245,11 @@ hash = "38a6671631add34eac47d2c2cc1bb480e5479d15548f10b0eaaafe200dfd5a37"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "77d4f4d154c64e82ca5151ea8c8b610ab9ffb31c93a51b84230a7f4162d20313"
+metafile = true
+
+[[files]]
 file = "mods/dont-clear-chat-history.pw.toml"
 hash = "d6b3fea370a85afbc4b829eacd9492bfa70bae6fe7680ab22c66244fa67362f1"
 metafile = true
