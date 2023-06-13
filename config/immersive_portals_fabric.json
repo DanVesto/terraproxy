@@ -17,7 +17,7 @@
   "correctCrossPortalEntityRendering": false,
   "looseMovementCheck": false,
   "pureMirror": false,
-  "enableAlternateDimensions": true,
+  "enableAlternateDimensions": false,
   "reducedPortalRendering": false,
   "visibilityPrediction": true,
   "netherPortalOverlay": false,

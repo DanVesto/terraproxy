@@ -62,7 +62,7 @@ hash = "3a2a810a45163f5e9403176263d532f8d6151590a5ce65ae122fb5f0cac724fa"
 
 [[files]]
 file = "config/immersive_portals_fabric.json"
-hash = "980247ba8e21564e780c8c7fcba0086f96db979f3fc797d61a15c43e9e7704ff"
+hash = "ee51a2a350b05a1961a0620345d578bee531c3a5c57052635697b8fc0d389a08"
 
 [[files]]
 file = "config/modmenu.json"
@@ -142,7 +142,7 @@ hash = "69305f9d9e0c54cc866cd9d3a381f14532e3be6b9b00a80707c19517e6a0874b"
 
 [[files]]
 file = "datapacks/TerraProxy.zip"
-hash = "a25251bd33f5c47a3fe7abb510726dd5405c52467c6e34fa6bf89d61d86a7f0b"
+hash = "52f11fd6f4d06414c4f7bef3d90c72c5366d7fad0b2084f73e61e2552cf98a35"
 
 [[files]]
 file = "datapacks/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip"
@@ -469,6 +469,11 @@ hash = "51ea57345c9369d53fd17ca8663f43f587d3bee6765a0afdf43ab7955d94eca2"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "8475894e2eeeaef0b12f4209b7c6da565d2d23b866437f23c70361160af17114"
+metafile = true
+
+[[files]]
 file = "mods/persona.pw.toml"
 hash = "b6b722c4f476be297928c584e44d416954e3b3ae0fc674963d1b7c7c1d16cb8d"
 metafile = true
@@ -476,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "da9464131cbeaabcfd1fb5bd3b4361de7e406f50904efa0e79c70b0beff08d8f"
+metafile = true
+
+[[files]]
+file = "mods/potion-ring-reforged.pw.toml"
+hash = "1978e63d5cb6ce8d4a3f65a883eab50ac3e39cd31fd81b8013fce4c5cd326e36"
 metafile = true
 
 [[files]]
@@ -541,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "4f0710e3703392afd2380987e0c0fbd70cdc7a3b6dc3ed2941cbca2144b5bc0b"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
