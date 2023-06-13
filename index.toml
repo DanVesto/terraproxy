@@ -49,6 +49,10 @@ file = "config/defaultoptions/options.txt"
 hash = "ec967fb3a0371b6fd65721916bcf32b22cf342d6c347ca94814a31820ddd0e1a"
 
 [[files]]
+file = "config/extraalchemy.json"
+hash = "dfb83443bfd42d62bab93691a7d04c727bb06bdf12f1ed90577b85a963088c02"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "537b713a81cdf61b7f9b89e351beb01fed73c50331a28a9fbead59289d1a9d1e"
 
