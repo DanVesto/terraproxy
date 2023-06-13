@@ -514,6 +514,11 @@ hash = "9b1fba2f0b96e6c25d7c48e4f5635c263c06f0c2b42e76bccd96b5f2120b9bed"
 metafile = true
 
 [[files]]
+file = "mods/sizeshiftingpotions.pw.toml"
+hash = "2ae260d86c986b23a703bf77623c26f7c33f73b2acbe976ecb24a5ec52039adf"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot.pw.toml"
 hash = "0d70acdcbabace61b1c8a3dca7be2b6a83705c66cdca88c51a89158746e86fda"
 metafile = true
