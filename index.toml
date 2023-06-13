@@ -142,7 +142,7 @@ hash = "69305f9d9e0c54cc866cd9d3a381f14532e3be6b9b00a80707c19517e6a0874b"
 
 [[files]]
 file = "datapacks/TerraProxy.zip"
-hash = "52f11fd6f4d06414c4f7bef3d90c72c5366d7fad0b2084f73e61e2552cf98a35"
+hash = "a25251bd33f5c47a3fe7abb510726dd5405c52467c6e34fa6bf89d61d86a7f0b"
 
 [[files]]
 file = "datapacks/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip"
@@ -281,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "af7557b39a8a5d3eaa0d07e9cee235fb0ba02e5ce8e96c5a4566ab24183eda0c"
+metafile = true
+
+[[files]]
+file = "mods/extraalchemy.pw.toml"
+hash = "0275babee44e40b37c2425bd6f793e459bfccd8ebb1da9dc17bdf5363764fee2"
 metafile = true
 
 [[files]]
@@ -484,11 +489,6 @@ hash = "da9464131cbeaabcfd1fb5bd3b4361de7e406f50904efa0e79c70b0beff08d8f"
 metafile = true
 
 [[files]]
-file = "mods/potion-ring-reforged.pw.toml"
-hash = "1978e63d5cb6ce8d4a3f65a883eab50ac3e39cd31fd81b8013fce4c5cd326e36"
-metafile = true
-
-[[files]]
 file = "mods/promenade.pw.toml"
 hash = "90c566f04f86546c14ac20a35e45c593a623b862d26e70ad64f3568b3029acb1"
 metafile = true
@@ -511,11 +511,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9b1fba2f0b96e6c25d7c48e4f5635c263c06f0c2b42e76bccd96b5f2120b9bed"
-metafile = true
-
-[[files]]
-file = "mods/sizeshiftingpotions.pw.toml"
-hash = "2ae260d86c986b23a703bf77623c26f7c33f73b2acbe976ecb24a5ec52039adf"
 metafile = true
 
 [[files]]
