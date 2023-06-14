@@ -1,6 +1,6 @@
 name = "Terra Proxy"
 author = "ArtificialDan"
-version = "0.0.67"
+version = "0.0.68"
 pack-format = "packwiz:1.1.0"
 
 [index]
