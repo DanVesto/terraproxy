@@ -246,11 +246,6 @@ hash = "743cf8a82c1e9b2abaa693d5d7add040020f7aa1689671ae948630c4dce622c4"
 metafile = true
 
 [[files]]
-file = "mods/crossstitch.pw.toml"
-hash = "b8645edab61bdca6f956393844d3b01f627f888a37ddcf769c7f24f3622ed7e3"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "d277acad312315e8700c4ed59553f39ec175d5882cd3b94fa235eace0a862f55"
 metafile = true
