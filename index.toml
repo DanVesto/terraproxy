@@ -316,11 +316,6 @@ hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
-file = "mods/fabricproxy-lite.pw.toml"
-hash = "6878d5b228dd0642368911cc1bf09c72243fe93e329bd4b87045320b496713bc"
-metafile = true
-
-[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "fee47049fb1514eaa778a220f54dca753a9cef826d9933b08799fbaccb49d672"
 metafile = true
