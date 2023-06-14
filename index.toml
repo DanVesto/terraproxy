@@ -216,6 +216,11 @@ hash = "c4310c07b4c226fa496670126abf919f7ad3ca4d7e541e298d46275db55c6b5d"
 metafile = true
 
 [[files]]
+file = "mods/cloth-api.pw.toml"
+hash = "66e5a832549ae569bb7ccffecbc888aa0b56abdd06bc98f7fd027069738d04d0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
 metafile = true
