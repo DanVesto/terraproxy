@@ -86,7 +86,7 @@ hash = "a8b17931af43862e6acca2cee3e23fc29e06a6bf0cfd41f26f6b24201bfb5479"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "3fce229667ee483b722f8c6aa75223cbe5de3196fe9cbcc6b03e0b77b64dccb8"
+hash = "d081654f53ee87db599754a20bf0baec1be0650ffbd24240bef0529dc09525c2"
 
 [[files]]
 file = "config/sodium-extra-options.json"

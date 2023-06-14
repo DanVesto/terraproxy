@@ -56,15 +56,33 @@ mainMenu {
     // removeEditionBadge()
 
     // Clear all buttons already on screen
-    clearAllButtons()
+    clearAllLabels()
     status = request("https://tunnel.vestotech.com/get?p=terraproxy&u="+playername()) 
     label {
         position {
             x { 2}
-            y { it - 18}
+            y { it - 8}
         }
         // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
-        text = literal(status + " Click to refresh.")
+        text = literal(status.equals("The tunnel is offline.") ? "The tunnel is offline... click to start tunnel after one minute." : "The tunnel is online... tunnel will stop after 5 minutes!")
+        // The alignment here can be "left", "center" or "right", default is "left"
+        align = "left"
+        // Color of the text, default is 0xFFFFFF
+        color = 0xFFFFFF
+        // Whether the label has a shadow, default is false
+        shadow = true
+        // Mouse Hovered Color of the text, default is 0xFFFFFF
+        hoveredColor = 0xFFFFFF
+        // Mouse Click Function, default is nothing, here's a list of options
+        onClicked = status.equals("The tunnel is offline.") ? startTunnel()  << reloadCts() : reloadCts()
+    }
+    label {
+        position {
+            x { 0}
+            y { 0}
+        }
+        // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
+        text = literal("0")
         // The alignment here can be "left", "center" or "right", default is "left"
         align = "left"
         // Color of the text, default is 0xFFFFFF
@@ -76,92 +94,74 @@ mainMenu {
         // Mouse Click Function, default is nothing, here's a list of options
         onClicked = reloadCts()
     }
-    label {
-        position {
-            x { 2}
-            y { it - 8}
-        }
-        // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
-        text = literal(status.equals("The tunnel is offline.") ? "Click to start tunnel after one minute." : "Stop tunnel in discord!")
-        // The alignment here can be "left", "center" or "right", default is "left"
-        align = "left"
-        // Color of the text, default is 0xFFFFFF
-        color = 0xFFFFFF
-        // Whether the label has a shadow, default is false
-        shadow = true
-        // Mouse Hovered Color of the text, default is 0xFFFFFF
-        hoveredColor = 0xFFFFFF
-        // Mouse Click Function, default is nothing, here's a list of options
-        onClicked = status.equals("The tunnel is offline.") ? startTunnel() : url("https://discord.com/channels/1106692075270975508/1106966026324815993")
-    }
-    button {
-        position {
-            x = 190
-            y = 116
-        }
-        width = 100
-        height = 20
-        // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
-        text = literal("Singleplayer")
-        // The alignment here can be "left", "center" or "right", default is "left"
-        align = "left"
-        // Mouse Click Function, default is nothing, look up see the list
-        onClicked = singleplayer()
-    }
-    button {
-        position {
-            x = 190
-            y = 137
-        }
-        width = 100
-        height = 20
-        // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
-        text = literal("Multiplayer")
-        // The alignment here can be "left", "center" or "right", default is "left"
-        align = "left"
-        // Mouse Click Function, default is nothing, look up see the list
-        onClicked = multiplayer()
-    }
-    button {
-        position {
-            x = 190
-            y = 158
-        }
-        width = 100
-        height = 20
-        // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
-        text = literal("Options")
-        // The alignment here can be "left", "center" or "right", default is "left"
-        align = "left"
-        // Mouse Click Function, default is nothing, look up see the list
-        onClicked = options()
-    }
-    button {
-        position {
-            x = 190
-            y = 179
-        }
-        width = 100
-        height = 20
-        // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
-        text = literal("Mods")
-        // The alignment here can be "left", "center" or "right", default is "left"
-        align = "left"
-        // Mouse Click Function, default is nothing, look up see the list
-        onClicked = modMenu()
-    }
-    button {
-        position {
-            x = 190
-            y = 200
-        }
-        width = 100
-        height = 20
-        // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
-        text = literal("Quit")
-        // The alignment here can be "left", "center" or "right", default is "left"
-        align = "left"
-        // Mouse Click Function, default is nothing, look up see the list
-        onClicked = exit()
-    }
+    // button {
+    //     position {
+    //         x = 190
+    //         y = 116
+    //     }
+    //     width = 100
+    //     height = 20
+    //     // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
+    //     text = literal("Singleplayer")
+    //     // The alignment here can be "left", "center" or "right", default is "left"
+    //     align = "left"
+    //     // Mouse Click Function, default is nothing, look up see the list
+    //     onClicked = singleplayer()
+    // }
+    // button {
+    //     position {
+    //         x = 190
+    //         y = 137
+    //     }
+    //     width = 100
+    //     height = 20
+    //     // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
+    //     text = literal("Multiplayer")
+    //     // The alignment here can be "left", "center" or "right", default is "left"
+    //     align = "left"
+    //     // Mouse Click Function, default is nothing, look up see the list
+    //     onClicked = multiplayer()
+    // }
+    // button {
+    //     position {
+    //         x = 190
+    //         y = 158
+    //     }
+    //     width = 100
+    //     height = 20
+    //     // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
+    //     text = literal("Options")
+    //     // The alignment here can be "left", "center" or "right", default is "left"
+    //     align = "left"
+    //     // Mouse Click Function, default is nothing, look up see the list
+    //     onClicked = options()
+    // }
+    // button {
+    //     position {
+    //         x = 190
+    //         y = 179
+    //     }
+    //     width = 100
+    //     height = 20
+    //     // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
+    //     text = literal("Mods")
+    //     // The alignment here can be "left", "center" or "right", default is "left"
+    //     align = "left"
+    //     // Mouse Click Function, default is nothing, look up see the list
+    //     onClicked = modMenu()
+    // }
+    // button {
+    //     position {
+    //         x = 190
+    //         y = 200
+    //     }
+    //     width = 100
+    //     height = 20
+    //     // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
+    //     text = literal("Quit")
+    //     // The alignment here can be "left", "center" or "right", default is "left"
+    //     align = "left"
+    //     // Mouse Click Function, default is nothing, look up see the list
+    //     onClicked = exit()
+    // }
 }
