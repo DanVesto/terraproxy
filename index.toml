@@ -81,6 +81,14 @@ file = "config/puzzle.json"
 hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
+file = "config/slightguimodifications/config.json5"
+hash = "a8b17931af43862e6acca2cee3e23fc29e06a6bf0cfd41f26f6b24201bfb5479"
+
+[[files]]
+file = "config/slightguimodifications/cts.groovy"
+hash = "3fce229667ee483b722f8c6aa75223cbe5de3196fe9cbcc6b03e0b77b64dccb8"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "6536c58c5a0d949fb5a37a771f69b49ff415bf50d591dc54190fc601522afb4a"
 
@@ -515,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9b1fba2f0b96e6c25d7c48e4f5635c263c06f0c2b42e76bccd96b5f2120b9bed"
+metafile = true
+
+[[files]]
+file = "mods/slight-gui-modifications.pw.toml"
+hash = "6712f720696377f5e8340ce1db3b636fdcf0ae01f85016f9d81b4e9f12552151"
 metafile = true
 
 [[files]]
