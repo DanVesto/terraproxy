@@ -606,6 +606,10 @@ hash = "7146d48eb92134c864fa003f8019527887fbd09aa47b3f43a9164859e27a34fc"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "ec967fb3a0371b6fd65721916bcf32b22cf342d6c347ca94814a31820ddd0e1a"
+
+[[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "30cae3d640c7a768890e806908c703db5cd61f3933b5c91985c67f91f82f43a4"
 
