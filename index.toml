@@ -551,6 +551,11 @@ hash = "0bdd006a7944fecd72f14fb94df21a2d80a7b45eac633c32ec5c5af7a57dd701"
 metafile = true
 
 [[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "cd8ce0429f1d4bb4c4ef4fd09a831955da0c4e1310d607bfbe6480fd11866b52"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "464efd679154b3d311531b55d0bba57568a4bd6066f03b930635a308d7e3547b"
 metafile = true
