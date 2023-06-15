@@ -1,0 +1,13 @@
+name = "Player Roles"
+filename = "player-roles-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3526862745cbcd006141baee3c6fa8acc6a96c7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3642861
+project-id = 394363

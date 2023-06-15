@@ -491,6 +491,11 @@ hash = "b6b722c4f476be297928c584e44d416954e3b3ae0fc674963d1b7c7c1d16cb8d"
 metafile = true
 
 [[files]]
+file = "mods/player-roles.pw.toml"
+hash = "06a7372d48a3a24d7cbf9c58dee9455a3547bc44271e229b1a9e21f720145b85"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "da9464131cbeaabcfd1fb5bd3b4361de7e406f50904efa0e79c70b0beff08d8f"
 metafile = true
