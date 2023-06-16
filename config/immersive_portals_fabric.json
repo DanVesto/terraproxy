@@ -10,7 +10,7 @@
   "enableCrossPortalSound": true,
   "compatibilityRenderMode": false,
   "doCheckGlError": false,
-  "portalSearchingRange": 128,
+  "portalSearchingRange": 16,
   "renderYourselfInPortal": true,
   "serverSideNormalChunkLoading": true,
   "teleportationDebug": false,
