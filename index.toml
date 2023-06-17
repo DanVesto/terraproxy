@@ -461,6 +461,11 @@ hash = "a5653a473c2ded9dd727d677f576194386884905a600336dbeea7eb6cb7049e2"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
+metafile = true
+
+[[files]]
 file = "mods/no-fade.pw.toml"
 hash = "da5bc04ce1665f78ceae93794202796d2041d6274ffdcfa227bf9e3024ca5ea3"
 metafile = true
