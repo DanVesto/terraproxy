@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "268eee36d007dc55ff7abb4e4eff3dc2d6d8007fad18bea53330dffffeee41f5"
+hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
 metafile = true
 
 [[files]]
@@ -528,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "3aee504744169e480f9f4d82227ba5557e306a4f151afe8b38720df63ad12873"
+metafile = true
+
+[[files]]
+file = "mods/server-translation-api.pw.toml"
+hash = "eee2fef940d38d0e3de9b4c2ccddec103d42c2ed568167998e313c87dc8ef474"
 metafile = true
 
 [[files]]

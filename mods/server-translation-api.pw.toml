@@ -1,0 +1,13 @@
+name = "Server Translation API"
+filename = "Server-Translations-1.4.12+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b60eb11cf299e680c2867b246033ed3c0ac1785b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3812385
+project-id = 629543
