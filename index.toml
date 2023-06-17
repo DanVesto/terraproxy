@@ -531,11 +531,6 @@ hash = "3aee504744169e480f9f4d82227ba5557e306a4f151afe8b38720df63ad12873"
 metafile = true
 
 [[files]]
-file = "mods/server-translation-api.pw.toml"
-hash = "eee2fef940d38d0e3de9b4c2ccddec103d42c2ed568167998e313c87dc8ef474"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9b1fba2f0b96e6c25d7c48e4f5635c263c06f0c2b42e76bccd96b5f2120b9bed"
 metafile = true
