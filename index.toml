@@ -246,11 +246,6 @@ hash = "9093b643267995dc21f7cb3cfff0ed9063587691caba8eed7d5972ed6e42f7de"
 metafile = true
 
 [[files]]
-file = "mods/craftify.pw.toml"
-hash = "429da6bdbe8dba078caa974f0849d1e65c0f3164495eeb78e1d2813d4ec0b4c8"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "743cf8a82c1e9b2abaa693d5d7add040020f7aa1689671ae948630c4dce622c4"
 metafile = true
